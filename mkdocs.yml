@@ -1,0 +1,13 @@
+site_name: Buildcraft
+site_favicon: img/favicon.ico
+repo_url: https://github.com/ModApiDocs/bc
+strict: true
+
+markdown_extensions:
+  - smarty
+  - urlize
+  - tables
+  - fenced_code
+
+pages:
+  - Home: index.md
